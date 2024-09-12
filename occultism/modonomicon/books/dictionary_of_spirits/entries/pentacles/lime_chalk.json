@@ -1,0 +1,39 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "occultism:pentacles",
+  "condition": {
+    "type": "modonomicon:true"
+  },
+  "description": "",
+  "hide_while_locked": false,
+  "icon": {
+    "item": "occultism:chalk_lime"
+  },
+  "name": "book.occultism.dictionary_of_spirits.pentacles.lime_chalk.name",
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "show_title_separator": true,
+      "text": "book.occultism.dictionary_of_spirits.pentacles.lime_chalk.intro.text",
+      "title": "book.occultism.dictionary_of_spirits.pentacles.lime_chalk.intro.title",
+      "use_markdown_in_title": false
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "occultism:pentacles/white_chalk",
+      "line_enabled": true,
+      "line_reversed": true
+    }
+  ],
+  "show_when_any_parent_unlocked": false,
+  "sort_number": -1,
+  "x": 1,
+  "y": -8
+}

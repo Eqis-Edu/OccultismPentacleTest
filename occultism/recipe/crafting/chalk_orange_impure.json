@@ -1,0 +1,28 @@
+{
+  "type": "occultism:ritual",
+  "activation_item": {
+    "item": "occultism:chalk_white_impure"
+  },
+  "duration": 3,
+  "ingredients": [
+    {
+      "item": "minecraft:torchflower"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "pentacle_id": "occultism:possess_djinni",
+  "result": {
+    "count": 1,
+    "id": "occultism:chalk_orange_impure"
+  },
+  "ritual_dummy": {
+    "count": 1,
+    "id": "occultism:ritual_dummy/custom_ritual"
+  },
+  "ritual_type": "occultism:craft"
+}

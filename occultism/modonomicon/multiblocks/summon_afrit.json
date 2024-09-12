@@ -1,0 +1,89 @@
+{
+  "type": "modonomicon:dense",
+  "mapping": {
+    "*": {
+      "type": "modonomicon:display",
+      "display": "occultism:otherstone"
+    },
+    "+": {
+      "type": "modonomicon:display",
+      "display": "minecraft:stone"
+    },
+    "0": {
+      "type": "modonomicon:block",
+      "block": "occultism:golden_sacrificial_bowl"
+    },
+    "1": {
+      "type": "modonomicon:tag",
+      "tag": "#minecraft:candles"
+    },
+    "2": {
+      "type": "modonomicon:block",
+      "block": "occultism:spirit_attuned_crystal"
+    },
+    "3": {
+      "type": "modonomicon:block",
+      "block": "minecraft:skeleton_skull"
+    },
+    "W": {
+      "type": "modonomicon:tag",
+      "tag": "#occultism:chalk_foundation_white"
+    },
+    "G": {
+      "type": "modonomicon:tag",
+      "tag": "#occultism:chalk_foundation_gray"
+    },
+    "L": {
+      "type": "modonomicon:block",
+      "block": "occultism:chalk_glyph_lime"
+    },
+    "R": {
+      "type": "modonomicon:block",
+      "block": "occultism:chalk_glyph_orange"
+    },
+    "O": {
+      "type": "modonomicon:block",
+      "block": "occultism:chalk_glyph_red"
+    }
+  },
+  "pattern": [
+    [
+      "_________________",
+      "______RRRRR______",
+      "____RRO_2_ORR____",
+      "___RO_LLLLL_OR___",
+      "__RO3L_L1L_L3OR__",
+      "__R_L2_WWW_2L_R__",
+      "_ROL__W_G_W__LOR_",
+      "_R_LLW_1G1_WLL_R_",
+      "_R2L1WGG0GGW1L2R_",
+      "_R_LLW_1G1_WLL_R_",
+      "_ROL__W_G_W__LOR_",
+      "__R_L2_WWW_2L_R__",
+      "__RO3L_L1L_L3OR__",
+      "___RO_LLLLL_OR___",
+      "____RRO_2_ORR____",
+      "______RRRRR______",
+      "_________________"
+    ],
+    [
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*",
+      "+*+*+*+*+*+*+*+*+",
+      "*+*+*+*+*+*+*+*+*"
+    ]
+  ]
+}

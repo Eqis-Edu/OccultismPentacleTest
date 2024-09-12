@@ -1,0 +1,28 @@
+{
+  "type": "occultism:ritual",
+  "activation_item": {
+    "item": "occultism:chalk_white_impure"
+  },
+  "duration": 3,
+  "ingredients": [
+    {
+      "tag": "c:dusts/iesnium"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "pentacle_id": "occultism:summon_marid",
+  "result": {
+    "count": 1,
+    "id": "occultism:chalk_cyan_impure"
+  },
+  "ritual_dummy": {
+    "count": 1,
+    "id": "occultism:ritual_dummy/custom_ritual"
+  },
+  "ritual_type": "occultism:craft"
+}
