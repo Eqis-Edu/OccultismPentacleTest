@@ -1,7 +1,7 @@
-Download and extract the folder "occultism" inside the "kubejs/data".
+Download and extract the folder "kubejs" inside your instance. Obviously you Occultism and KubeJS.
 
 
-I HAVEN'T ENTERED TEXTS YET, SO YOU WILL SEE A LOT OF TRANSLATION KEYS
+Some translation keys are still missing, or slightly incongruent. Most are very simple texts, with no history/lore.
 
 Color progression:
 - White -> Light Gray & Yellow
