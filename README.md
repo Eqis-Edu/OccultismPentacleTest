@@ -24,5 +24,9 @@ Color progression:
 - Blue + Yellow -> Brown
 - Blue + Purple -> Magenta
 
-For now, impure chalks are being made with rituals, but only to place the progression (in the future, rituals will be used to obtain materials)
+NOTE: Some items require a minimum crusher tier to be obtained, listed below:
+- (any) Ice: Djinni+
+- Heart of the Sea: Afrit+
+- Echo Shard: Marid
+
 If you are really going to try it, make it a goal to draw the "Contact Eldritch" pentacle.
