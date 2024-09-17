@@ -1,0 +1,44 @@
+{
+  "type": "occultism:ritual",
+  "activation_item": {
+    "item": "occultism:book_of_binding_bound_marid"
+  },
+  "duration": 120,
+  "entity_to_sacrifice": {
+    "display_name": "Tadpole",
+    "tag": "c:tadpole"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:armadillo_scute"
+    },
+    {
+      "item": "minecraft:armadillo_scute"
+    },
+    {
+      "item": "minecraft:armadillo_scute"
+    },
+    {
+      "item": "minecraft:armadillo_scute"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:pointed_dripstone"
+    }
+  ],
+  "pentacle_id": "occultism:possess_marid",
+  "result": {
+    "count": 1,
+    "id": "kubejs:cruelty_essence"
+  },
+  "ritual_dummy": {
+    "count": 1,
+    "id": "occultism:ritual_dummy/custom_ritual"
+  },
+  "ritual_type": "occultism:craft"
+}

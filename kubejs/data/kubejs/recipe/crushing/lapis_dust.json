@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "ignore_crushing_multiplier": true,
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "type": "occultism:item",
+    "count": 1,
+    "item": "kubejs:lapis_dust"
+  }
+}

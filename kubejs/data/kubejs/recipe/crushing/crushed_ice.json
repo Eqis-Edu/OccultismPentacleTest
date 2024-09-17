@@ -1,0 +1,13 @@
+{
+  "type": "occultism:crushing",
+  "ignore_crushing_multiplier": true,
+  "min_tier": 2,
+  "ingredient": {
+    "item": "minecraft:ice"
+  },
+  "result": {
+    "type": "occultism:item",
+    "count": 1,
+    "item": "kubejs:crushed_ice"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "occultism:ritual",
+  "activation_item": {
+    "item": "occultism:book_of_binding_bound_afrit"
+  },
+  "duration": 60,
+  "entity_to_sacrifice": {
+    "display_name": "Pig",
+    "tag": "c:pigs"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:pink_petals"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:cherry_leaves"
+    },
+    {
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "pentacle_id": "occultism:possess_wild_afrit",
+  "result": {
+    "count": 2,
+    "id": "kubejs:demonic_meat"
+  },
+  "ritual_dummy": {
+    "count": 1,
+    "id": "occultism:ritual_dummy/custom_ritual"
+  },
+  "ritual_type": "occultism:craft"
+}

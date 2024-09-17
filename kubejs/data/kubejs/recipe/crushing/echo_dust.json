@@ -1,0 +1,13 @@
+{
+  "type": "occultism:crushing",
+  "ignore_crushing_multiplier": true,
+  "min_tier": 4,
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "result": {
+    "type": "occultism:item",
+    "count": 1,
+    "item": "kubejs:echo_dust"
+  }
+}

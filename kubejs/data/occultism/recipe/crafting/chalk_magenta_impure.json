@@ -1,28 +1,22 @@
 {
-  "type": "occultism:ritual",
-  "activation_item": {
-    "item": "occultism:chalk_white_impure"
-  },
-  "duration": 3,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:dragon_breath"
+      "item": "occultism:chalk_white_impure"
     },
     {
-      "tag": "c:gems/amethyst"
+      "item": "kubejs:dragonyst_dust"
     },
     {
-      "item": "minecraft:end_crystal"
+      "item": "kubejs:amethyst_dust"
+    },
+    {
+      "item": "kubejs:amethyst_dust"
     }
   ],
-  "pentacle_id": "occultism:craft_marid",
   "result": {
     "count": 1,
     "id": "occultism:chalk_magenta_impure"
-  },
-  "ritual_dummy": {
-    "count": 1,
-    "id": "occultism:ritual_dummy/custom_ritual"
-  },
-  "ritual_type": "occultism:craft"
+  }
 }

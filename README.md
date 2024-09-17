@@ -1,4 +1,4 @@
-Download and extract the folder "kubejs" inside your instance. Obviously you Occultism and KubeJS.
+Download and extract the folder "kubejs" inside your instance. Obviously you need Occultism and KubeJS.
 
 
 Some translation keys are still missing, or slightly incongruent. Most are very simple texts, with no history/lore.

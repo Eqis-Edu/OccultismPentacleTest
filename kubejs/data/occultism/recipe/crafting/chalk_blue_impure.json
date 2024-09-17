@@ -1,28 +1,22 @@
 {
-  "type": "occultism:ritual",
-  "activation_item": {
-    "item": "occultism:chalk_white_impure"
-  },
-  "duration": 3,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:heart_of_the_sea"
+      "item": "occultism:chalk_white_impure"
     },
     {
-      "tag": "c:gems/lapis"
+      "item": "kubejs:broken_sea_heart"
     },
     {
-      "item": "minecraft:tube_coral"
+      "item": "kubejs:lapis_dust"
+    },
+    {
+      "item": "kubejs:lapis_dust"
     }
   ],
-  "pentacle_id": "occultism:summon_afrit",
   "result": {
     "count": 1,
     "id": "occultism:chalk_blue_impure"
-  },
-  "ritual_dummy": {
-    "count": 1,
-    "id": "occultism:ritual_dummy/custom_ritual"
-  },
-  "ritual_type": "occultism:craft"
+  }
 }

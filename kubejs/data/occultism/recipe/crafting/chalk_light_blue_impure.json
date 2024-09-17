@@ -1,28 +1,22 @@
 {
-  "type": "occultism:ritual",
-  "activation_item": {
-    "item": "occultism:chalk_white_impure"
-  },
-  "duration": 3,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:ice"
+      "item": "occultism:chalk_white_impure"
     },
     {
-      "item": "minecraft:packed_ice"
+      "item": "kubejs:crushed_ice"
     },
     {
-      "item": "minecraft:blue_ice"
+      "item": "kubejs:crushed_packed_ice"
+    },
+    {
+      "item": "kubejs:crushed_blue_ice"
     }
   ],
-  "pentacle_id": "occultism:summon_djinni",
   "result": {
     "count": 1,
     "id": "occultism:chalk_light_blue_impure"
-  },
-  "ritual_dummy": {
-    "count": 1,
-    "id": "occultism:ritual_dummy/custom_ritual"
-  },
-  "ritual_type": "occultism:craft"
+  }
 }

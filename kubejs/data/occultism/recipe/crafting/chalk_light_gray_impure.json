@@ -6,17 +6,17 @@
       "item": "occultism:chalk_white_impure"
     },
     {
-      "item": "kubejs:gray_paste"
+      "tag": "c:dusts/silver"
     },
     {
-      "item": "kubejs:gray_paste"
+      "tag": "c:dusts/iron"
     },
     {
-      "tag": "c:dyes/gray"
+      "item": "kubejs:crushed_calcite"
     }
   ],
   "result": {
     "count": 1,
-    "id": "occultism:chalk_gray_impure"
+    "id": "occultism:chalk_light_gray_impure"
   }
 }

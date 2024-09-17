@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "ignore_crushing_multiplier": true,
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "type": "occultism:item",
+    "count": 1,
+    "item": "kubejs:netherite_dust"
+  }
+}
