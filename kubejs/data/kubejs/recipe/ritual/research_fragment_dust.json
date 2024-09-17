@@ -6,10 +6,10 @@
   "duration": 30,
   "ingredients": [
     {
-      "tag": "c:slime_balls"
+      "item": "minecraft:experience_bottle"
     },
     {
-      "item": "minecraft:emerald"
+      "item": "kubejs:emerald_dust"
     },
     {
       "item": "minecraft:experience_bottle"
