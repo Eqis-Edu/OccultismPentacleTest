@@ -19,11 +19,11 @@
     },
     "2": {
       "type": "modonomicon:block",
-      "block": "occultism:spirit_attuned_crystal"
+      "block": "minecraft:skeleton_skull"
     },
     "3": {
       "type": "modonomicon:block",
-      "block": "minecraft:skeleton_skull"
+      "block": "occultism:spirit_attuned_crystal"
     },
     "X": {
       "type": "modonomicon:block",
