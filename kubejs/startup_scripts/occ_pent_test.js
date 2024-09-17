@@ -16,6 +16,7 @@ StartupEvents.registry('item', e => {
     e.create('lapis_dust')
     e.create('nature_paste')
     e.create('netherite_dust')
+    e.create('netherite_scrap_dust')
     e.create('research_fragment_dust')
     e.create('witherite_dust')
   })
